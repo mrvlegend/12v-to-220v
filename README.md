@@ -42,6 +42,11 @@ Each component has a specific role in making the inverter work:
 - The resistors and capacitors set timing, stability, and gate/base current control.
 - The PCB or perfboard keeps the circuit physically organized and easier to assemble.
 
+## Updates
+
+- 2026-06-09: Updated the block diagram image (`diagram.png`) and the PCB photo (`Pasted image (2).png`).
+
+
 ## Block Diagram / Schematic
 
 ![Block diagram](diagram.png)
